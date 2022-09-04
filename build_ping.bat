@@ -1,0 +1,1 @@
+pyinstaller -F --icon=ping.ico --windowed ping.pyw
